@@ -1,0 +1,23 @@
+<!--<app-usuario></app-usuario>-->
+<!--<app-libros></app-libros>-->
+<!--<h1>Mi App Angular</h1>
+<a routerLink="/">Inicio</a>
+<br>
+<a routerLink="/libros">Libros Favoritos</a>
+<router-outlet></router-outlet>-->
+<!--<button mat-raised-button color="primary">
+  <mat-icon>account_circle</mat-icon> Mi Primer Boton Material
+</button>-->
+<mat-sidenav-container>
+  <mat-sidenav #menu role="navigation">
+    <app-menu-lista (menuToggle)="menu.toggle()"></app-menu-lista>
+  </mat-sidenav>
+  <mat-sidenav-content>
+    <app-barra (menuToggle)="menu.toggle()"></app-barra>
+
+    <main>
+      <router-outlet></router-outlet>
+    </main>
+    <!--<button (click)="menu.toggle()">Abreme</button>-->
+  </mat-sidenav-content>
+</mat-sidenav-container>
