@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BaK/kslmBDdRiDDjqyj/FI38jHcM9/DxgTKFVXsenceq5WdpUfXM96CC2TunBMDMiCtN9RaDLKkvY/Zq19TwMQ==",
+  "dgSpecHash": "lsqMLUQxxDYBvm8ZknxNppjeAuG32Xd9R56ith35dmo/yiRPHUdSLzFJwFOqVMUBzcAHgug30Zw5tndjmzofag==",
   "success": true,
-  "projectFilePath": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj",
+  "projectFilePath": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
     "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.5\\microsoft.aspnetcore.authentication.jwtbearer.5.0.5.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qzeIV9EfhNYtERggVNz71MtLr9p/z00zCv1mGjJoU7MBxE7EpXw2c6aERbZxXaBn/2ECf9l06wOqiMHnw4eiow==",
+  "dgSpecHash": "875IyaXUaNITt8sIFZxv3vgEnFfUnCfZwF3GFTnDX9c1U9sGisqcbHh9E77z/jjujjjcnADHo/ihsuXlz9laXA==",
   "success": true,
-  "projectFilePath": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
+  "projectFilePath": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Seguridad\\Servicios.api.Seguridad.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

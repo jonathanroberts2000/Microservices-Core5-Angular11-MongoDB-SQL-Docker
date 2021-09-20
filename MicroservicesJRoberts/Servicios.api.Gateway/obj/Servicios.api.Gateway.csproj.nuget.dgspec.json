@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj": {}
+    "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj": {}
   },
   "projects": {
-    "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj": {
+    "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj",
+        "projectUniqueName": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj",
         "projectName": "Servicios.api.Gateway",
-        "projectPath": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj",
+        "projectPath": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Gateway\\Servicios.api.Gateway.csproj",
         "packagesPath": "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\",
-        "outputPath": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Gateway\\obj\\",
+        "outputPath": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Gateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -74,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -639,11 +639,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
+      "projectUniqueName": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
       "projectName": "Servicios.api.Libreria",
-      "projectPath": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
+      "projectPath": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
       "packagesPath": "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\",
-      "outputPath": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Libreria\\obj\\",
+      "outputPath": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Libreria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -706,7 +706,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

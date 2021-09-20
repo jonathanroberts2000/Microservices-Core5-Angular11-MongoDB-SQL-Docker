@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9bgbgFrIZyBOMl8sejjYFdQCEYyZllhJYxnmwN2vU9xqkG45ji665puF8Fj4/HcDx6AbTIw6hVBj7ejSjOljpA==",
+  "dgSpecHash": "ipm/NF0sMGKkF2vl60n3oU143b/6DliGZTJg7S36DBPuG5D1gP6n/1PyHsOpQ7mK5rOMKNOpUiEaZ4u8r4tNrw==",
   "success": true,
-  "projectFilePath": "E:\\Udemy\\Microservices\\MicroservicesJRoberts\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
+  "projectFilePath": "E:\\Udemy\\Microservices-NETCore5-Angular11-MongoDB-SQL-Docker\\MicroservicesJRoberts\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\dnsclient\\1.4.0\\dnsclient.1.4.0.nupkg.sha512",
     "C:\\Users\\Jonathan Roberts\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
